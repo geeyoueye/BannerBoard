@@ -1,0 +1,7 @@
+name: BannerBoard
+main: me.bigteddy98.bannerboard.Main
+version: ${project.version}
+author: BigTeddy98
+description: BannerBoard compatibility layer for InteractiveBoard.
+softdepend: [PlaceholderAPI]
+depend: [InteractiveBoard]
